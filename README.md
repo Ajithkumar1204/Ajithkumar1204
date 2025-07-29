@@ -32,7 +32,7 @@
 
 ### 📬 Let's Connect
 
-- 🌐 Portfolio: [YourPortfolioLink.com](#)  
+- 🌐 Portfolio: [bit.ly/ajithkumar_portfolio](#)  
 - 📧 Email: [ajithkumar12204@gmail.com](mailto:ajithkumar12204@gmail.com)  
 - 💼 LinkedIn: [linkedin.com/in/ajith-kumarma](#)
 
