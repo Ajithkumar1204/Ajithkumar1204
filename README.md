@@ -34,6 +34,6 @@
 
 - 🌐 Portfolio: [bit.ly/ajithkumar_portfolio](#bit.ly/ajithkumar_portfolio)  
 - 📧 Email: [ajithkumar12204@gmail.com](mailto:ajithkumar12204@gmail.com)  
-- 💼 LinkedIn: [linkedin.com/in/ajith-kumarma](#https://www.linkedin.com/in/ajith-kumarma)
+- 💼 LinkedIn: [https://www.linkedin.com/in/ajith-kumarma](#linkedin.com/in/ajith-kumarma)
 
 > “Code with purpose, build with passion.”
